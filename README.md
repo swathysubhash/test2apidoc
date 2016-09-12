@@ -1,7 +1,5 @@
 # test2apidoc
 
-[![Build Status](https://travis-ci.org/swathysubhash/test2apidoc.svg?branch=master)](https://travis-ci.org/swathysubhash/test2apidoc)
-
 Creates documentation by writing functional tests.
 
 
