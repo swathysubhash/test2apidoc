@@ -1,0 +1,18 @@
+{
+  "name": "doctest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "doctest.js",
+  "dependencies": {
+    "aglio": "^2.2.1",
+    "generate-schema": "^2.1.1",
+    "mkdirp": "^0.5.1",
+    "shimmer": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
